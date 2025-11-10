@@ -34,10 +34,4 @@
 		  <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff">
       <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
 	  </p>
-  <p><b>Donate</b></p>
-    <p>
-      <a href=""><img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white"></a>
-      <a href=""><img src="https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white"></a>
-      <a href=""><img src="https://img.shields.io/badge/Monero-F60?logo=monero&logoColor=fff"></a>
-    </p>  
 </div>
